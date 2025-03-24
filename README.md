@@ -10,9 +10,9 @@
 - Support for **Bayesian Optimization** using **Upper Confidence Bound (UCB)** acquisition.  
 - Easily configured hyperparameters:  
   - Noise term  
-  - Length scale (\(\ell\))  
-  - Signal variance (\(\sigma_f\))  
-  - Exploration factor (\(\alpha\))  
+  - Length scale  
+  - Signal variance (denoted as `sigma_f`)  
+  - Exploration factor (denoted as `alpha`)  
 - Simple matrix inversion (Gauss-Jordan) for small datasets.  
 - Designed for microcontrollers like **ESP32**, **ESP8266**, or standard **Arduino** boards.  
 - Supports discrete scanning of a user-defined domain (e.g., `[domainMin, domainMax]` with increments).
