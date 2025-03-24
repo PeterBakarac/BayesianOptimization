@@ -1,3 +1,12 @@
+/*
+*    FILE: BayesOpt.cpp
+*  AUTHOR: Peter Bakarac
+* VERSION: 1.0.0
+* PURPOSE: Bayesian Optimization
+*     URL: https://github.com/PeterBakarac/BayesianOptimization
+*/
+
+
 #include "BayesOpt.h"
 #include <math.h>
 #include <stdlib.h> // for malloc() and free() functions

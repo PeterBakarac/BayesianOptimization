@@ -1,3 +1,11 @@
+/*
+*    FILE: BayesOpt.h
+*  AUTHOR: Peter Bakarac
+* VERSION: 1.0.0
+* PURPOSE: Bayesian Optimization
+*     URL: https://github.com/PeterBakarac/BayesianOptimization
+*/
+
 #ifndef BAYESOPT_H
 #define BAYESOPT_H
 
